@@ -1,7 +1,11 @@
 {
-  "lastUpdated": "2024-01-01T00:00:00Z",
-  "version": 1,
-  "meters": [],
-  "readings": [],
-  "sections": []
+  "version": "1.0",
+  "exportDate": "2024-01-01T00:00:00Z",
+  "data": {
+    "sections": [],
+    "meters": [],
+    "readings": [],
+    "monthlyReadings": [],
+    "settings": []
+  }
 }
